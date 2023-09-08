@@ -1,0 +1,14 @@
+Release Name: Cyberon DSpotter Sample Code
+Release Version: 1.0
+Package License: LICENSE(Cyberon)
+
+Sample_Code                Name: Sample code                                         
+                           Version: NA                                               
+                           Outgoing License: LICENSE(Cyberon)                        
+                           License File: LICENSE(Cyberon)                            
+                           Format: source code                                       
+                           Description: Sample code to demonstrate how to use Cyberon
+                           DSpotter APIs to implement an application.
+                           Location: include/cyberon_asr.h, include/CybModelInfor.h, 
+                           src/cyberon_asr.c, src/CybModelInfor.c, ./main.c          
+                           Origin: Cyberon (LICENSE(Cyberon))                        
